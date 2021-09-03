@@ -1,1 +1,3 @@
 # Automate-Updating-Catalog-Information-System
+I have developed a system that will update the catalog information of an online fruit store with data provided by the suppliers. When each supplier has new products for the store, they give an image and a description of each product. The image needs to be processed and the text needs to be turned into an HTML file that shows the image and the product description and then update the online fruit store website to add new products.
+once the task is completed, the supplier gets notified with an email. Finally, in parallel to automation, a script will run on the webserver to check the system health and notify with an email as an alert if the system is unhealthy.
